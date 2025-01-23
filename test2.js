@@ -1,1 +1,1 @@
-console.log('Ini adalah file test2');
+console.log('Ini adalah file test2 baru');
