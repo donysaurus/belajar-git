@@ -13,4 +13,7 @@ console.log(devide(4, 2));
 console.log(add(5, 5));
 
 const power = (a) => a * a;
-console.log(power(a));
+console.log(power(15));
+
+const sinus = (f) => Math.sin(f);
+console.log(sinus(90));
