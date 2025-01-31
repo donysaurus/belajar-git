@@ -16,4 +16,4 @@ const power = (a) => a * a;
 console.log(power(15));
 
 const sinus = (f) => Math.sin(f);
-console.log(sinus(10));
+console.log(sinus(100));
